@@ -4,3 +4,4 @@ rembg
 Pillow
 numpy
 requests
+onnxruntime-slim
