@@ -1,0 +1,6 @@
+streamlit
+opencv-contrib-python-headless
+rembg
+Pillow
+numpy
+requests
